@@ -3,6 +3,9 @@
 This repository is used as a public distribution point for release binaries and update metadata for software projects maintained by fedrnv.
 
 It does not contain source code for the projects themselves. Source code, documentation, issue tracking, and development history are maintained in the corresponding project repositories.
+# links
+DAF latest:
+https://github.com/fedrnv/releases/releases/tag/daf%2Flatest
 
 ## Release Structure
 
