@@ -6,6 +6,8 @@ It does not contain source code for the projects themselves. Source code, docume
 # links
 DAF latest:
 https://github.com/fedrnv/releases/releases/tag/daf%2Flatest
+DeXl latest
+https://github.com/fedrnv/releases/releases/tag/dexl%2Flatest
 
 ## Release Structure
 
