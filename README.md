@@ -5,12 +5,15 @@ This repository is used as a public distribution point for release binaries and 
 It does not contain source code for the projects themselves. Source code, documentation, issue tracking, and development history are maintained in the corresponding project repositories.
 # links
 DAF latest:
+
 https://github.com/fedrnv/releases/releases/tag/daf%2Flatest
 
-DeXl latest
+DeXl latest:
+
 https://github.com/fedrnv/releases/releases/tag/dexl%2Flatest
 
-BAW Firmware latest
+BAW Firmware latest:
+
 https://github.com/fedrnv/releases/releases/tag/baw_firmware%2Flatest
 
 ## Release Structure
