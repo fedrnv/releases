@@ -10,6 +10,9 @@ https://github.com/fedrnv/releases/releases/tag/daf%2Flatest
 DeXl latest
 https://github.com/fedrnv/releases/releases/tag/dexl%2Flatest
 
+BAW Firmware latest
+https://github.com/fedrnv/releases/releases/tag/baw_firmware%2Flatest
+
 ## Release Structure
 
 Releases in this repository may be grouped by project-specific tags.
