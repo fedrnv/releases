@@ -16,6 +16,10 @@ BAW Firmware latest:
 
 https://github.com/fedrnv/releases/releases/tag/baw_firmware%2Flatest
 
+DAV Latest:
+
+https://github.com/fedrnv/releases/releases/tag/dav%2Flatest
+
 ## Release Structure
 
 Releases in this repository may be grouped by project-specific tags.
