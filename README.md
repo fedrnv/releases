@@ -17,6 +17,7 @@ BAW Firmware latest:
 https://github.com/fedrnv/releases/releases/tag/baw_firmware%2Flatest
 
 EMAT_8CH Firmware latest:
+
 https://github.com/fedrnv/releases/releases/tag/emat-8ch-ib%2Flatest
 
 DAV Latest:
